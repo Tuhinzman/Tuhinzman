@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tuhin+Zaman+%F0%9F%91%8B;Cloud+DevOps+Engineer;Kubernetes+%26+AWS+Enthusiast;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tuhin+Zaman+%F0%9F%91%8B;Cloud+DevOps+Engineer+%40+VistaJet;Kubernetes+%26+AWS+Practitioner;Platform+%26+SRE+Mindset" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/tuhinzaman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Tuhinzman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Tuhinzman&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Senior_DevOps_%2F_Platform_%2F_SRE-0e7c3f?style=for-the-badge" />
 </p>
 
 ---
@@ -14,42 +14,77 @@
 
 ```yaml
 name: Tuhin Zaman
-role: Cloud DevOps Engineer
-location: Working remotely (UTC-4)
+role: Cloud DevOps Engineer @ VistaJet
+experience: 3+ years production AWS & Kubernetes
+location: Buffalo, NY (UTC-4) - fully remote
 focus:
-  - Automating deployments & optimizing cloud infrastructure
-  - Kubernetes orchestration at scale
-  - Building resilient, observable distributed systems
-currently_working_on:
-  - Homelab platform engineering
-  - OpenTelemetry-based observability
-  - AI-powered career automation tools
+  - Production AWS & EKS at scale
+  - GitOps, IaC, and platform engineering
+  - Observability with OpenTelemetry & Prometheus
+  - FinOps and cloud cost optimization
+currently_building:
+  - Homelab v2.5 on Proxmox (22-phase plan)
+  - AI Platform extension (LiteLLM, Langfuse, pgvector)
+  - MK Tech Corporation - FinOps consulting
 ```
+
+---
+
+### Production Impact
+
+<table>
+  <tr>
+    <td align="center"><b>18%</b><br/>AWS cost reduction</td>
+    <td align="center"><b>40%</b><br/>MTTR improvement</td>
+    <td align="center"><b>60%</b><br/>Deploy time reduction</td>
+    <td align="center"><b>99.99%</b><br/>Uptime SLO</td>
+  </tr>
+  <tr>
+    <td align="center"><b>200+</b><br/>servers migrated</td>
+    <td align="center"><b>300+</b><br/>Jenkins jobs migrated</td>
+    <td align="center"><b>50+</b><br/>Ansible-managed nodes</td>
+    <td align="center"><b>240+</b><br/>Wiz vulns remediated</td>
+  </tr>
+</table>
+
+---
+
+### Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/044db054-4374-419a-a665-0ece8006b515/public_url">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="100" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/151e3a60-7063-49e8-a109-71197196b631/public_url">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" height="100" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/044db054-4374-419a-a665-0ece8006b515/public_url"><b>AWS Solutions Architect Associate (SAA-C03)</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.credly.com/badges/151e3a60-7063-49e8-a109-71197196b631/public_url"><b>Certified Kubernetes Administrator (CKA)</b></a>
+</p>
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,docker,terraform,linux,bash,git,github,githubactions,jenkins,ansible,prometheus,grafana,python,go,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker,terraform,linux,bash,git,github,githubactions,jenkins,gitlab,ansible,prometheus,grafana,python&perline=8" />
 </p>
-
-<details>
-<summary><b>Expand for details</b></summary>
-<br>
 
 | Category | Technologies |
 |---|---|
-| **Cloud** | AWS (EC2, EKS, S3, IAM, VPC, Lambda, RDS, CloudFormation) |
-| **Orchestration** | Kubernetes, Helm, Kustomize, ArgoCD |
+| **Cloud** | AWS (EC2, EKS, S3, IAM, VPC, Lambda, RDS, CloudFormation), Azure |
+| **Orchestration** | Kubernetes, EKS, Helm, Kustomize, ArgoCD |
 | **IaC** | Terraform, CloudFormation, Ansible |
-| **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
-| **Containers** | Docker, containerd, Podman |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki |
-| **Scripting** | Bash, Python, Go |
-| **OS** | Ubuntu, Amazon Linux, CentOS, Proxmox |
-
-</details>
+| **CI/CD** | GitLab CI, GitHub Actions, Jenkins |
+| **Containers** | Docker, containerd |
+| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki, Datadog |
+| **Security & Compliance** | Wiz, SOC2, External Secrets Operator, cert-manager |
+| **Scripting** | Python, Bash |
+| **OS & Virtualization** | Ubuntu, Amazon Linux, Proxmox |
 
 ---
 
@@ -58,42 +93,22 @@ currently_working_on:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Homelab Platform</h3>
+      <h3 align="center">Homelab Platform v2.5</h3>
       <p align="center">
         <a href="https://github.com/Tuhinzman/homelab-platform">
-          <img src="https://img.shields.io/badge/Production--Grade_Homelab-36BCF7?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Production--Style_Homelab-36BCF7?style=for-the-badge" />
         </a>
       </p>
-      <p align="center">Full-stack homelab infrastructure with Kubernetes, monitoring, and GitOps workflows</p>
+      <p align="center">22-phase Proxmox platform: K3s, ArgoCD, Longhorn, MetalLB, Loki, OpenTelemetry. GitOps from day one.</p>
     </td>
     <td width="50%">
-      <h3 align="center">OpenTelemetry Demo</h3>
+      <h3 align="center">OTel Demo DevOps</h3>
       <p align="center">
-        <a href="https://github.com/Tuhinzman/opentelemetry-demo">
-          <img src="https://img.shields.io/badge/Observability_Stack-F5A623?style=for-the-badge" />
+        <a href="https://github.com/Tuhinzman/otel-demo-devops">
+          <img src="https://img.shields.io/badge/23_Microservices_on_EKS-F5A623?style=for-the-badge" />
         </a>
       </p>
-      <p align="center">Microservice-based distributed system showcasing OpenTelemetry implementation</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Career Ops</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/career-ops">
-          <img src="https://img.shields.io/badge/AI--Powered_Job_Search-8B5CF6?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">AI-powered job search system with 14 skill modes, Go dashboard & batch processing</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">CKA Simulator</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/cka-simulator">
-          <img src="https://img.shields.io/badge/Kubernetes_Exam_Prep-326CE5?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Practice environment for Certified Kubernetes Administrator exam preparation</p>
+      <p align="center">23 microservices, custom Docker builds, full Prometheus/Grafana/Loki/Tempo stack on AWS EKS.</p>
     </td>
   </tr>
   <tr>
@@ -101,10 +116,10 @@ currently_working_on:
       <h3 align="center">Terraform E-Commerce Infra</h3>
       <p align="center">
         <a href="https://github.com/Tuhinzman/terraform-ecommerce-infrastructure">
-          <img src="https://img.shields.io/badge/AWS_Terraform_IaC-844FBA?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/AWS_Modular_Terraform-844FBA?style=for-the-badge" />
         </a>
       </p>
-      <p align="center">Production-ready AWS infrastructure for e-commerce using Terraform</p>
+      <p align="center">Modular AWS Terraform: VPC, multi-AZ subnets, security groups, EC2 with full DevOps tooling pre-installed.</p>
     </td>
     <td width="50%">
       <h3 align="center">AWS Three-Tier Architecture</h3>
@@ -113,7 +128,27 @@ currently_working_on:
           <img src="https://img.shields.io/badge/Three--Tier_AWS-FF9900?style=for-the-badge" />
         </a>
       </p>
-      <p align="center">AWS three-tier architecture with standby tier using Terraform</p>
+      <p align="center">Multi-AZ three-tier AWS architecture with standby tier, fully reproducible via Terraform.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">CKA Simulator</h3>
+      <p align="center">
+        <a href="https://github.com/Tuhinzman/cka-simulator">
+          <img src="https://img.shields.io/badge/Kubernetes_Exam_Prep-326CE5?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">Practice environment and scenarios for Certified Kubernetes Administrator preparation.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">More on GitHub</h3>
+      <p align="center">
+        <a href="https://github.com/Tuhinzman?tab=repositories&type=source">
+          <img src="https://img.shields.io/badge/View_All_Source_Repos-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">Source repositories spanning Ansible, Kubernetes, observability, automation, and learning projects — forks excluded.</p>
     </td>
   </tr>
 </table>
@@ -124,23 +159,9 @@ currently_working_on:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tuhinzman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Tuhinzman&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-</p>
-
-<p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhinzman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" />
 </p>
 
 ---
 
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuhinzman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="98%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=footer" width="100%" />
-</p>
+<p align="center"><i>Available for remote Senior DevOps, Platform Engineering, and SRE roles.</i></p>
