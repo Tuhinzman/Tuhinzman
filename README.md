@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tuhin+Zaman+%F0%9F%91%8B;Cloud+DevOps+Engineer+%40+VistaJet;Kubernetes+%26+AWS+Practitioner;Platform+%26+SRE+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tuhin+Zaman+%F0%9F%91%8B;Cloud+DevOps+Engineer+%40+VistaJet;AWS+Certified+%C2%B7+CKA+%C2%B7+Terraform;Building+Reliable+Infrastructure" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,18 +15,20 @@
 ```yaml
 name: Tuhin Zaman
 role: Cloud DevOps Engineer @ VistaJet
-experience: 3+ years production AWS & Kubernetes
+experience: 6+ years DevOps & cloud engineering
 location: Buffalo, NY (UTC-4) - fully remote
-focus:
-  - Production AWS & EKS at scale
-  - GitOps, IaC, and platform engineering
-  - Observability with OpenTelemetry & Prometheus
+current_focus:
+  - Production Kubernetes & CI/CD at VistaJet
+  - GitOps with ArgoCD, IaC with Terraform
+  - Observability (CloudWatch, Prometheus, Grafana)
   - FinOps and cloud cost optimization
-currently_building:
+also_building:
   - Homelab v2.5 on Proxmox (22-phase plan)
   - AI Platform extension (LiteLLM, Langfuse, pgvector)
   - MK Tech Corporation - FinOps consulting
 ```
+
+Right now I build and manage Kubernetes and CI/CD infrastructure at VistaJet, where we run production workloads for a global aviation company.
 
 ---
 
@@ -36,14 +38,14 @@ currently_building:
   <tr>
     <td align="center"><b>18%</b><br/>AWS cost reduction</td>
     <td align="center"><b>40%</b><br/>MTTR improvement</td>
-    <td align="center"><b>60%</b><br/>Deploy time reduction</td>
+    <td align="center"><b>Zero downtime</b><br/>EKS migration</td>
     <td align="center"><b>99.99%</b><br/>Uptime SLO</td>
   </tr>
   <tr>
-    <td align="center"><b>200+</b><br/>servers migrated</td>
-    <td align="center"><b>300+</b><br/>Jenkins jobs migrated</td>
+    <td align="center"><b>60%</b><br/>Deploy time reduction</td>
+    <td align="center"><b>SOC 2</b><br/>audit support</td>
+    <td align="center"><b>Cross-region</b><br/>DR for RDS</td>
     <td align="center"><b>50+</b><br/>Ansible-managed nodes</td>
-    <td align="center"><b>240+</b><br/>Wiz vulns remediated</td>
   </tr>
 </table>
 
@@ -76,82 +78,35 @@ currently_building:
 
 | Category | Technologies |
 |---|---|
-| **Cloud** | AWS (EC2, EKS, S3, IAM, VPC, Lambda, RDS, CloudFormation), Azure |
+| **Cloud** | AWS (EKS, EC2, RDS, S3, Lambda, VPC, IAM, Secrets Manager, CloudFormation), Azure |
 | **Orchestration** | Kubernetes, EKS, Helm, Kustomize, ArgoCD |
 | **IaC** | Terraform, CloudFormation, Ansible |
 | **CI/CD** | GitLab CI, GitHub Actions, Jenkins |
 | **Containers** | Docker, containerd |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki, Datadog |
-| **Security & Compliance** | Wiz, SOC2, External Secrets Operator, cert-manager |
+| **Observability** | CloudWatch, Prometheus, Grafana, Loki, OpenTelemetry |
+| **Security & Compliance** | Wiz, Trivy, SOC 2, External Secrets Operator, cert-manager |
 | **Scripting** | Python, Bash |
 | **OS & Virtualization** | Ubuntu, Amazon Linux, Proxmox |
 
 ---
 
-### Featured Projects
+### Featured Project
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Homelab Platform v2.5</h3>
+    <td width="100%">
+      <h3 align="center">Homelab Platform v2.5 — Production-style Kubernetes on Proxmox</h3>
       <p align="center">
         <a href="https://github.com/Tuhinzman/homelab-platform">
-          <img src="https://img.shields.io/badge/Production--Style_Homelab-36BCF7?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/22--Phase_Manual--First_Platform-36BCF7?style=for-the-badge" />
         </a>
       </p>
-      <p align="center">22-phase Proxmox platform: K3s, ArgoCD, Longhorn, MetalLB, Loki, OpenTelemetry. GitOps from day one.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">OTel Demo DevOps</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/otel-demo-devops">
-          <img src="https://img.shields.io/badge/23_Microservices_on_EKS-F5A623?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">23 microservices, custom Docker builds, full Prometheus/Grafana/Loki/Tempo stack on AWS EKS.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Terraform E-Commerce Infra</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/terraform-ecommerce-infrastructure">
-          <img src="https://img.shields.io/badge/AWS_Modular_Terraform-844FBA?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Modular AWS Terraform: VPC, multi-AZ subnets, security groups, EC2 with full DevOps tooling pre-installed.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AWS Three-Tier Architecture</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/aws-three-tier-terraform">
-          <img src="https://img.shields.io/badge/Three--Tier_AWS-FF9900?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Multi-AZ three-tier AWS architecture with standby tier, fully reproducible via Terraform.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CKA Simulator</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman/cka-simulator">
-          <img src="https://img.shields.io/badge/Kubernetes_Exam_Prep-326CE5?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Practice environment and scenarios for Certified Kubernetes Administrator preparation.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">More on GitHub</h3>
-      <p align="center">
-        <a href="https://github.com/Tuhinzman?tab=repositories&type=source">
-          <img src="https://img.shields.io/badge/View_All_Source_Repos-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">Source repositories spanning Ansible, Kubernetes, observability, automation, and learning projects — forks excluded.</p>
+      <p align="center">22-phase execution plan: bare-metal Proxmox → Kubernetes → GitOps → Observability → AWS/EKS migration → AI Platform extension. Per-phase runbooks, Break-it drills, deviation logs. Manual-first through Phase 13 for learning depth, Terraform-first from Phase 14 onward.</p>
     </td>
   </tr>
 </table>
+
+More repositories: [Terraform AWS modules](https://github.com/Tuhinzman/terraform-ecommerce-infrastructure) · [Three-tier architecture](https://github.com/Tuhinzman/aws-three-tier-terraform) · [CKA prep](https://github.com/Tuhinzman/cka-simulator) · [All repos](https://github.com/Tuhinzman?tab=repositories)
 
 ---
 
