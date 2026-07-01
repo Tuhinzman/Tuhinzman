@@ -106,7 +106,7 @@ Right now I build and manage Kubernetes and CI/CD infrastructure at VistaJet, wh
   </tr>
 </table>
 
-More repositories: [Terraform AWS modules](https://github.com/Tuhinzman/terraform-ecommerce-infrastructure) · [Three-tier architecture](https://github.com/Tuhinzman/aws-three-tier-terraform) · [CKA prep](https://github.com/Tuhinzman/cka-simulator) · [All repos](https://github.com/Tuhinzman?tab=repositories)
+More repositories: [Terraform AWS modules](https://github.com/Tuhinzman/terraform-ecommerce-infrastructure) · [Three-tier architecture](https://github.com/Tuhinzman/aws-three-tier-terraform) · [WordPress scalability](https://github.com/Tuhinzman/wordpress-scalability-lab) · [K8s cluster setup](https://github.com/Tuhinzman/k8s-Cluster-Setup-on-Ubuntu-24.0.04.3-LTS) · [CKA prep](https://github.com/Tuhinzman/cka-simulator) · [All repos](https://github.com/Tuhinzman?tab=repositories)
 
 ---
 
