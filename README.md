@@ -8,6 +8,9 @@
 ☁️ I build and manage Kubernetes and CI/CD infrastructure for production workloads at a global aviation company.<br>
 🔭 My focus is GitOps with Argo CD, infrastructure as code with Terraform, and observability with CloudWatch, Prometheus and Grafana.<br>
 📉 I also work on FinOps and cloud cost optimization.<br>
+🤖 I'm enthusiastic about **AI, Agentic AI, Cloud and Platform Engineering**.<br>
+📚 I love learning new technologies, teaching others and sharing what I learn.<br>
+🙏 I believe in God.<br>
 📍 Based in **Buffalo, New York**, working fully remotely.<br>
 💼 Available for remote **Senior DevOps, Platform Engineering and SRE** roles.
 
