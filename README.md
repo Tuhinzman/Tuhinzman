@@ -14,6 +14,8 @@
 📍 Based in **Buffalo, New York**, working fully remotely.<br>
 💼 Available for remote **Senior DevOps, Platform Engineering and SRE** roles.
 
+💬 **Thanks for visiting my profile!** I welcome suggestions, feedback and kind words. I'm always happy to learn from others and keep improving.
+
 <details>
 <summary><b>Production impact</b></summary>
 
