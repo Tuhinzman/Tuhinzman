@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-👋 Hi, I'm **Tuhin Zaman**, a **Cloud DevOps Engineer at VistaJet** with **6+ years in DevOps and cloud engineering**.<br><br>
+👋 Hi, I'm **Tuhin Zaman**, a **Cloud DevOps Engineer at VistaJet** with **8+ years of experience in DevOps and cloud engineering**.<br><br>
 ☁️ I build and manage Kubernetes and CI/CD infrastructure for production workloads at a global aviation company.<br>
 🔭 My focus is GitOps with Argo CD, infrastructure as code with Terraform, and observability with CloudWatch, Prometheus and Grafana.<br>
 📉 I also work on FinOps and cloud cost optimization.<br>
