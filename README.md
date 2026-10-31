@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tuhin+Zaman+%F0%9F%91%8B;Cloud+DevOps+Engineer+%40+VistaJet;AWS+Certified+%C2%B7+CKA+%C2%B7+Terraform;Building+Reliable+Infrastructure" alt="Typing SVG" />
+</h1>
+
 # 💫 About Me
 
 👋 Hi, I'm **Tuhin Zaman**, a **Cloud DevOps Engineer at VistaJet** with **6+ years in DevOps and cloud engineering**.<br><br>
